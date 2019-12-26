@@ -4,4 +4,4 @@
 
 실행화면
 
-![screenshot](.screenshot.png)
+![screenshot](./screenshot.png)
