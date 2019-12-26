@@ -4,4 +4,4 @@
 
 실행화면
 
-![스프링](.스프링.png)
+![screenshot](.screenshot.png)
